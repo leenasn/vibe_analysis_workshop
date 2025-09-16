@@ -1,0 +1,737 @@
+Found cached title.basics.tsv.gz
+Found cached title.ratings.tsv.gz
+{
+  "top_movies": [
+    {
+      "title": "The Shawshank Redemption",
+      "startYear": 1994,
+      "averageRating": 9.3,
+      "numVotes": 3097823,
+      "genres": "Drama"
+    },
+    {
+      "title": "The Godfather",
+      "startYear": 1972,
+      "averageRating": 9.2,
+      "numVotes": 2159074,
+      "genres": "Crime,Drama"
+    },
+    {
+      "title": "The Dark Knight",
+      "startYear": 2008,
+      "averageRating": 9.1,
+      "numVotes": 3072860,
+      "genres": "Action,Crime,Drama"
+    },
+    {
+      "title": "The Lord of the Rings: The Return of the King",
+      "startYear": 2003,
+      "averageRating": 9.0,
+      "numVotes": 2106514,
+      "genres": "Adventure,Drama,Fantasy"
+    },
+    {
+      "title": "Schindler's List",
+      "startYear": 1993,
+      "averageRating": 9.0,
+      "numVotes": 1545131,
+      "genres": "Biography,Drama,History"
+    },
+    {
+      "title": "The Godfather Part II",
+      "startYear": 1974,
+      "averageRating": 9.0,
+      "numVotes": 1451174,
+      "genres": "Crime,Drama"
+    },
+    {
+      "title": "12 Angry Men",
+      "startYear": 1957,
+      "averageRating": 9.0,
+      "numVotes": 947874,
+      "genres": "Crime,Drama"
+    },
+    {
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "startYear": 2001,
+      "averageRating": 8.9,
+      "numVotes": 2140137,
+      "genres": "Adventure,Drama,Fantasy"
+    },
+    {
+      "title": "Inception",
+      "startYear": 2010,
+      "averageRating": 8.8,
+      "numVotes": 2729689,
+      "genres": "Action,Adventure,Sci-Fi"
+    },
+    {
+      "title": "Fight Club",
+      "startYear": 1999,
+      "averageRating": 8.8,
+      "numVotes": 2514096,
+      "genres": "Crime,Drama,Thriller"
+    }
+  ],
+  "top_recent_movies": [
+    {
+      "title": "12th Fail",
+      "startYear": 2023,
+      "averageRating": 8.7,
+      "numVotes": 155960,
+      "genres": "Biography,Drama"
+    },
+    {
+      "title": "Jai Bhim",
+      "startYear": 2021,
+      "averageRating": 8.6,
+      "numVotes": 229264,
+      "genres": "Crime,Drama"
+    },
+    {
+      "title": "Soorarai Pottru",
+      "startYear": 2020,
+      "averageRating": 8.6,
+      "numVotes": 129501,
+      "genres": "Drama"
+    },
+    {
+      "title": "Rocketry: The Nambi Effect",
+      "startYear": 2022,
+      "averageRating": 8.6,
+      "numVotes": 61081,
+      "genres": "Biography,Drama"
+    },
+    {
+      "title": "Parasite",
+      "startYear": 2019,
+      "averageRating": 8.5,
+      "numVotes": 1099224,
+      "genres": "Drama,Thriller"
+    },
+    {
+      "title": "Dune: Part Two",
+      "startYear": 2024,
+      "averageRating": 8.5,
+      "numVotes": 665441,
+      "genres": "Action,Adventure,Drama"
+    },
+    {
+      "title": "The Kashmir Files",
+      "startYear": 2022,
+      "averageRating": 8.5,
+      "numVotes": 577307,
+      "genres": "Drama"
+    },
+    {
+      "title": "Spider-Man: Across the Spider-Verse",
+      "startYear": 2023,
+      "averageRating": 8.5,
+      "numVotes": 479915,
+      "genres": "Action,Adventure,Animation"
+    },
+    {
+      "title": "Sita Ramam",
+      "startYear": 2022,
+      "averageRating": 8.5,
+      "numVotes": 78638,
+      "genres": "Action,Drama,Musical"
+    },
+    {
+      "title": "Avengers: Endgame",
+      "startYear": 2019,
+      "averageRating": 8.4,
+      "numVotes": 1388012,
+      "genres": "Action,Adventure,Sci-Fi"
+    }
+  ],
+  "movies_by_decade": [
+    {
+      "decade": 1920,
+      "avg_rating": 7.819999999999999,
+      "median_runtime": 86.5,
+      "count": 30
+    },
+    {
+      "decade": 1930,
+      "avg_rating": 7.597752808988765,
+      "median_runtime": 96.0,
+      "count": 89
+    },
+    {
+      "decade": 1940,
+      "avg_rating": 7.561249999999999,
+      "median_runtime": 102.0,
+      "count": 160
+    },
+    {
+      "decade": 1950,
+      "avg_rating": 7.461764705882353,
+      "median_runtime": 103.0,
+      "count": 238
+    },
+    {
+      "decade": 1960,
+      "avg_rating": 7.362611275964391,
+      "median_runtime": 111.0,
+      "count": 337
+    },
+    {
+      "decade": 1970,
+      "avg_rating": 7.1751605995717345,
+      "median_runtime": 109.0,
+      "count": 467
+    },
+    {
+      "decade": 1980,
+      "avg_rating": 6.714079822616409,
+      "median_runtime": 103.0,
+      "count": 902
+    },
+    {
+      "decade": 1990,
+      "avg_rating": 6.603871391076115,
+      "median_runtime": 105.0,
+      "count": 1524
+    },
+    {
+      "decade": 2000,
+      "avg_rating": 6.486950146627566,
+      "median_runtime": 104.0,
+      "count": 2728
+    },
+    {
+      "decade": 2010,
+      "avg_rating": 6.4707671601615075,
+      "median_runtime": 105.0,
+      "count": 3715
+    },
+    {
+      "decade": 2020,
+      "avg_rating": 6.332254525507405,
+      "median_runtime": 111.0,
+      "count": 1823
+    }
+  ],
+  "runtime_vs_rating": [
+    {
+      "runtime_bin": "<90 min",
+      "avg_rating": 6.117338894418377,
+      "median_votes": 45.0,
+      "count": 126594
+    },
+    {
+      "runtime_bin": "90-119 min",
+      "avg_rating": 6.077783885200006,
+      "median_votes": 127.0,
+      "count": 136446
+    },
+    {
+      "runtime_bin": "120-149 min",
+      "avg_rating": 6.482394527667379,
+      "median_votes": 161.0,
+      "count": 26168
+    },
+    {
+      "runtime_bin": "150-179 min",
+      "avg_rating": 6.632647584973167,
+      "median_votes": 180.0,
+      "count": 6708
+    },
+    {
+      "runtime_bin": "180+ min",
+      "avg_rating": 6.929230769230769,
+      "median_votes": 79.0,
+      "count": 1950
+    }
+  ],
+  "genre_performance": [
+    {
+      "genre": "Western",
+      "avg_rating": 7.554545454545455,
+      "median_year": 1986.0,
+      "title_count": 33,
+      "total_votes": 7962023
+    },
+    {
+      "genre": "War",
+      "avg_rating": 7.54578313253012,
+      "median_year": 2000.0,
+      "title_count": 83,
+      "total_votes": 20434070
+    },
+    {
+      "genre": "Documentary",
+      "avg_rating": 7.487096774193549,
+      "median_year": 2010.0,
+      "title_count": 31,
+      "total_votes": 2356606
+    },
+    {
+      "genre": "Biography",
+      "avg_rating": 7.331464174454829,
+      "median_year": 2011.0,
+      "title_count": 321,
+      "total_votes": 60436074
+    },
+    {
+      "genre": "History",
+      "avg_rating": 7.315833333333333,
+      "median_year": 2012.0,
+      "title_count": 120,
+      "total_votes": 21003487
+    },
+    {
+      "genre": "Animation",
+      "avg_rating": 7.1525735294117645,
+      "median_year": 2009.5,
+      "title_count": 272,
+      "total_votes": 62271466
+    },
+    {
+      "genre": "Drama",
+      "avg_rating": 7.116180371352785,
+      "median_year": 2008.0,
+      "title_count": 2262,
+      "total_votes": 444827910
+    },
+    {
+      "genre": "Musical",
+      "avg_rating": 7.112,
+      "median_year": 2004.0,
+      "title_count": 50,
+      "total_votes": 6652489
+    },
+    {
+      "genre": "Sport",
+      "avg_rating": 7.009278350515464,
+      "median_year": 2005.0,
+      "title_count": 97,
+      "total_votes": 14216936
+    },
+    {
+      "genre": "Music",
+      "avg_rating": 6.974038461538461,
+      "median_year": 2007.0,
+      "title_count": 104,
+      "total_votes": 15457882
+    },
+    {
+      "genre": "Crime",
+      "avg_rating": 6.91021978021978,
+      "median_year": 2007.0,
+      "title_count": 910,
+      "total_votes": 181261970
+    },
+    {
+      "genre": "Romance",
+      "avg_rating": 6.811298482293423,
+      "median_year": 2006.0,
+      "title_count": 593,
+      "total_votes": 94112078
+    },
+    {
+      "genre": "Mystery",
+      "avg_rating": 6.757846715328467,
+      "median_year": 2009.0,
+      "title_count": 548,
+      "total_votes": 101443862
+    },
+    {
+      "genre": "Thriller",
+      "avg_rating": 6.696856106408706,
+      "median_year": 2008.0,
+      "title_count": 827,
+      "total_votes": 160468842
+    },
+    {
+      "genre": "Adventure",
+      "avg_rating": 6.696438356164384,
+      "median_year": 2009.0,
+      "title_count": 1095,
+      "total_votes": 288040204
+    },
+    {
+      "genre": "Family",
+      "avg_rating": 6.696190476190476,
+      "median_year": 2004.0,
+      "title_count": 210,
+      "total_votes": 40174340
+    },
+    {
+      "genre": "Comedy",
+      "avg_rating": 6.652937293729374,
+      "median_year": 2007.0,
+      "title_count": 1515,
+      "total_votes": 258848084
+    },
+    {
+      "genre": "Action",
+      "avg_rating": 6.561119186046512,
+      "median_year": 2010.5,
+      "title_count": 1376,
+      "total_votes": 330492720
+    },
+    {
+      "genre": "Sci-Fi",
+      "avg_rating": 6.55812356979405,
+      "median_year": 2008.0,
+      "title_count": 437,
+      "total_votes": 138232777
+    },
+    {
+      "genre": "Fantasy",
+      "avg_rating": 6.5452970297029704,
+      "median_year": 2009.0,
+      "title_count": 404,
+      "total_votes": 98752593
+    },
+    {
+      "genre": "Horror",
+      "avg_rating": 6.356862745098039,
+      "median_year": 2010.0,
+      "title_count": 561,
+      "total_votes": 87077744
+    }
+  ],
+  "tv_vs_movies": [
+    {
+      "titleType": "movie",
+      "avg_rating": 6.666825416718887,
+      "median_votes": 58447.0,
+      "count": 7979
+    },
+    {
+      "titleType": "tvSeries",
+      "avg_rating": 7.786598746081506,
+      "median_votes": 45112.0,
+      "count": 1276
+    },
+    {
+      "titleType": "tvEpisode",
+      "avg_rating": 8.719024390243902,
+      "median_votes": 31993.0,
+      "count": 615
+    },
+    {
+      "titleType": "tvMiniSeries",
+      "avg_rating": 7.653424657534246,
+      "median_votes": 39251.0,
+      "count": 219
+    },
+    {
+      "titleType": "video",
+      "avg_rating": 6.7305882352941175,
+      "median_votes": 29902.0,
+      "count": 85
+    },
+    {
+      "titleType": "tvMovie",
+      "avg_rating": 6.723255813953489,
+      "median_votes": 28225.0,
+      "count": 43
+    },
+    {
+      "titleType": "videoGame",
+      "avg_rating": 9.01,
+      "median_votes": 27086.5,
+      "count": 40
+    },
+    {
+      "titleType": "short",
+      "avg_rating": 7.444117647058824,
+      "median_votes": 27279.5,
+      "count": 34
+    },
+    {
+      "titleType": "tvSpecial",
+      "avg_rating": 7.872727272727272,
+      "median_votes": 40689.0,
+      "count": 11
+    },
+    {
+      "titleType": "tvShort",
+      "avg_rating": 8.25,
+      "median_votes": 22851.0,
+      "count": 2
+    }
+  ],
+  "yearly_rating_trend": [
+    {
+      "startYear": 1980,
+      "avg_rating": 6.556896551724138,
+      "median_votes": 11838.5,
+      "count": 116
+    },
+    {
+      "startYear": 1981,
+      "avg_rating": 6.5975409836065575,
+      "median_votes": 11345.0,
+      "count": 122
+    },
+    {
+      "startYear": 1982,
+      "avg_rating": 6.701010101010101,
+      "median_votes": 17227.0,
+      "count": 99
+    },
+    {
+      "startYear": 1983,
+      "avg_rating": 6.62037037037037,
+      "median_votes": 12888.5,
+      "count": 108
+    },
+    {
+      "startYear": 1984,
+      "avg_rating": 6.599193548387096,
+      "median_votes": 16897.0,
+      "count": 124
+    },
+    {
+      "startYear": 1985,
+      "avg_rating": 6.617482517482517,
+      "median_votes": 18571.0,
+      "count": 143
+    },
+    {
+      "startYear": 1986,
+      "avg_rating": 6.484563758389262,
+      "median_votes": 17925.0,
+      "count": 149
+    },
+    {
+      "startYear": 1987,
+      "avg_rating": 6.5062111801242235,
+      "median_votes": 13290.0,
+      "count": 161
+    },
+    {
+      "startYear": 1988,
+      "avg_rating": 6.459239130434782,
+      "median_votes": 16484.5,
+      "count": 184
+    },
+    {
+      "startYear": 1989,
+      "avg_rating": 6.50060975609756,
+      "median_votes": 17223.0,
+      "count": 164
+    },
+    {
+      "startYear": 1990,
+      "avg_rating": 6.4922619047619055,
+      "median_votes": 19468.5,
+      "count": 168
+    },
+    {
+      "startYear": 1991,
+      "avg_rating": 6.529444444444445,
+      "median_votes": 13661.5,
+      "count": 180
+    },
+    {
+      "startYear": 1992,
+      "avg_rating": 6.62896174863388,
+      "median_votes": 20008.0,
+      "count": 183
+    },
+    {
+      "startYear": 1993,
+      "avg_rating": 6.595360824742268,
+      "median_votes": 23740.0,
+      "count": 194
+    },
+    {
+      "startYear": 1994,
+      "avg_rating": 6.4142222222222225,
+      "median_votes": 17351.0,
+      "count": 225
+    },
+    {
+      "startYear": 1995,
+      "avg_rating": 6.567420814479639,
+      "median_votes": 21236.0,
+      "count": 221
+    },
+    {
+      "startYear": 1996,
+      "avg_rating": 6.415948275862069,
+      "median_votes": 19482.5,
+      "count": 232
+    },
+    {
+      "startYear": 1997,
+      "avg_rating": 6.508264462809917,
+      "median_votes": 20388.5,
+      "count": 242
+    },
+    {
+      "startYear": 1998,
+      "avg_rating": 6.584100418410041,
+      "median_votes": 26743.0,
+      "count": 239
+    },
+    {
+      "startYear": 1999,
+      "avg_rating": 6.6000000000000005,
+      "median_votes": 20490.5,
+      "count": 262
+    },
+    {
+      "startYear": 2000,
+      "avg_rating": 6.443840579710145,
+      "median_votes": 19861.5,
+      "count": 276
+    },
+    {
+      "startYear": 2001,
+      "avg_rating": 6.50406779661017,
+      "median_votes": 24383.0,
+      "count": 295
+    },
+    {
+      "startYear": 2002,
+      "avg_rating": 6.405312499999999,
+      "median_votes": 26422.0,
+      "count": 320
+    },
+    {
+      "startYear": 2003,
+      "avg_rating": 6.474587458745875,
+      "median_votes": 27237.0,
+      "count": 303
+    },
+    {
+      "startYear": 2004,
+      "avg_rating": 6.522849462365591,
+      "median_votes": 22257.0,
+      "count": 372
+    },
+    {
+      "startYear": 2005,
+      "avg_rating": 6.394656488549618,
+      "median_votes": 20891.0,
+      "count": 393
+    },
+    {
+      "startYear": 2006,
+      "avg_rating": 6.420403587443946,
+      "median_votes": 22742.0,
+      "count": 446
+    },
+    {
+      "startYear": 2007,
+      "avg_rating": 6.4484375,
+      "median_votes": 21570.0,
+      "count": 448
+    },
+    {
+      "startYear": 2008,
+      "avg_rating": 6.349680170575693,
+      "median_votes": 19389.0,
+      "count": 469
+    },
+    {
+      "startYear": 2009,
+      "avg_rating": 6.34494623655914,
+      "median_votes": 21440.0,
+      "count": 465
+    },
+    {
+      "startYear": 2010,
+      "avg_rating": 6.443432203389831,
+      "median_votes": 18213.5,
+      "count": 472
+    },
+    {
+      "startYear": 2011,
+      "avg_rating": 6.401022494887525,
+      "median_votes": 20772.0,
+      "count": 489
+    },
+    {
+      "startYear": 2012,
+      "avg_rating": 6.311485148514852,
+      "median_votes": 17368.0,
+      "count": 505
+    },
+    {
+      "startYear": 2013,
+      "avg_rating": 6.433274336283186,
+      "median_votes": 17216.0,
+      "count": 565
+    },
+    {
+      "startYear": 2014,
+      "avg_rating": 6.376480836236934,
+      "median_votes": 18907.0,
+      "count": 574
+    },
+    {
+      "startYear": 2015,
+      "avg_rating": 6.365765765765766,
+      "median_votes": 15752.0,
+      "count": 555
+    },
+    {
+      "startYear": 2016,
+      "avg_rating": 6.402195945945945,
+      "median_votes": 15680.0,
+      "count": 592
+    },
+    {
+      "startYear": 2017,
+      "avg_rating": 6.326190476190477,
+      "median_votes": 15784.0,
+      "count": 588
+    },
+    {
+      "startYear": 2018,
+      "avg_rating": 6.35314465408805,
+      "median_votes": 15131.0,
+      "count": 636
+    },
+    {
+      "startYear": 2019,
+      "avg_rating": 6.386786296900489,
+      "median_votes": 14760.0,
+      "count": 613
+    },
+    {
+      "startYear": 2020,
+      "avg_rating": 6.163414634146342,
+      "median_votes": 12563.5,
+      "count": 492
+    },
+    {
+      "startYear": 2021,
+      "avg_rating": 6.2115913555992135,
+      "median_votes": 15981.0,
+      "count": 509
+    },
+    {
+      "startYear": 2022,
+      "avg_rating": 6.264322469982847,
+      "median_votes": 14462.0,
+      "count": 583
+    },
+    {
+      "startYear": 2023,
+      "avg_rating": 6.320550458715596,
+      "median_votes": 13454.0,
+      "count": 545
+    },
+    {
+      "startYear": 2024,
+      "avg_rating": 6.286206896551724,
+      "median_votes": 15320.5,
+      "count": 464
+    },
+    {
+      "startYear": 2025,
+      "avg_rating": 6.182666666666666,
+      "median_votes": 15315.0,
+      "count": 225
+    }
+  ]
+}
